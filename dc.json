@@ -10,6 +10,14 @@
             "name": "肥猫"
         },
         {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/Tangsan99999/-/master/newtang.bmp",
+            "name": "唐三"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+            "name": "Fongmi"
+        },
+        {
             "url": "https://agit.ai/VivoMax/ddtv/raw/branch/master/%e9%be%99%e9%97%a8%e5%bd%b1%e8%a7%86.json",
             "name": "龙门影视"
         }, 
@@ -81,6 +89,13 @@
             "url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
             "name": "老刘备"
         }
-
+        {
+            "url": "https://xn--0lqv13avvo.ml/45127",
+            "name": "源享家"
+        }
+        {
+            "url": "https://tv.5ye.cc/",
+            "name": "二哈社区"
+        }
     ]
 }
